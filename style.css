@@ -1,0 +1,35 @@
+h1 {
+    color: #2F4F4F;
+    font-size: 40px;
+    font-style: bold;
+    line-height: 1.2;
+    text-align: center;
+}
+
+p {
+    color: #2F4F4F;
+    font-size: 20px;
+    line-height: 1.5;
+    text-align: center;
+}
+
+body{
+    font-family: 'Merriweather', serif;
+    background-color: #708090;
+
+}
+
+.foto-omne{
+    width: 200px;
+    border: 3px solid #2F4F4F;
+    border-radius: 20px;
+    float: left;
+    margin: 0 30px 30px 0;
+}
+
+.obsah {
+    margin: 0 auto; 
+    max-width: 700px; 
+    width: 100%; 
+}
+
